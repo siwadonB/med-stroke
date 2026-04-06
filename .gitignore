@@ -1,0 +1,5 @@
+**/node_modules/
+mobile/.expo/
+server/uploads/
+.DS_Store
+Thumbs.db
